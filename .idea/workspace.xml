@@ -5,15 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b211266-a575-40c7-989c-5c7681d0fa67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day07/NewUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day07/PostEducation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day07/PostRequestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiPOJOTemplates/KraftUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiPOJOTemplates/KraftUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiPOJOTemplates/PetStoreUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiPOJOTemplates/PetStoreUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day05/EmineExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day05/EmineExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day05/HamCrestMatchers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day05/HamCrestMatchers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day05/JsonToJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day05/JsonToJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day06/DeSerilizationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day06/DeSerilizationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day06/GSON_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day06/GSON_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day06/POJO_Deserilization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day06/POJO_Deserilization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day06/POJO_KraftUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day06/POJO_KraftUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day4/BookStorePathMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day4/BookStorePathMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day4/KraftExlabJsonPathMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day4/KraftExlabJsonPathMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day02/SimpleGetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day02/SimpleGetRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/ClassTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/ClassTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/PathMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/PathMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/PetStoreWithPathParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/PetStoreWithPathParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestAndVerifyHeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestAndVerifyHeaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestWithPathParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestWithPathParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestWithQueryParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestWithQueryParam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\emneu\IdeaProjects\B4_Api\htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,12 +68,121 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/emneu/IdeaProjects/B4_Api/src/test/java/apiPOJOTemplates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\emneu\IdeaProjects\B4_Api\src\test\java\apiPOJOTemplates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PostRequestDemo.postNewUser">
+    <configuration name="EmineExercise.exerciseE" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B4_Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.Day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.Day05" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.Day05.EmineExercise" />
+      <option name="METHOD_NAME" value="exerciseE" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HamCrestMatchers.getOneUserWithHamcrestMatchers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B4_Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.Day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.Day05" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.Day05.HamCrestMatchers" />
+      <option name="METHOD_NAME" value="getOneUserWithHamcrestMatchers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HamCrestMatchers.hamcrest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B4_Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.Day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.Day05" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.Day05.HamCrestMatchers" />
+      <option name="METHOD_NAME" value="hamcrest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRequestDemo.postNewUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B4_Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.Day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.Day07" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.Day07.PostRequestDemo" />
+      <option name="METHOD_NAME" value="postNewUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserGetRequestAndVerifyHeaders.headerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B4_Api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTest.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiTest.day3" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.day3.UserGetRequestAndVerifyHeaders" />
+      <option name="METHOD_NAME" value="headerTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PostRequestDemo.postNewUser" />
+        <item itemvalue="TestNG.HamCrestMatchers.getOneUserWithHamcrestMatchers" />
+        <item itemvalue="TestNG.UserGetRequestAndVerifyHeaders.headerTest" />
+        <item itemvalue="TestNG.HamCrestMatchers.hamcrest2" />
+        <item itemvalue="TestNG.EmineExercise.exerciseE" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,5 +193,25 @@
       <updated>1692296251249</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/B4_Api$JsonToJava.ic" NAME="JsonToJava Coverage Results" MODIFIED="1692825238389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>apiTest.Day05.*</FILTER>
+    </SUITE>
   </component>
 </project>
