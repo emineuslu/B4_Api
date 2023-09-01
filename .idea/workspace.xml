@@ -4,31 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b211266-a575-40c7-989c-5c7681d0fa67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day07/NewUserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day07/PostEducation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day07/PostRequestDemo.java" afterDir="false" />
+    <list default="true" id="8b211266-a575-40c7-989c-5c7681d0fa67" name="Changes" comment="change added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/day08/Authorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/day08/Post_Put_Patch_Delete_Flow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiPOJOTemplates/KraftUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiPOJOTemplates/KraftUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiPOJOTemplates/PetStoreUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiPOJOTemplates/PetStoreUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day05/EmineExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day05/EmineExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day05/HamCrestMatchers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day05/HamCrestMatchers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day05/JsonToJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day05/JsonToJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day06/DeSerilizationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day06/DeSerilizationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day06/GSON_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day06/GSON_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day06/POJO_Deserilization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day06/POJO_Deserilization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day06/POJO_KraftUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day06/POJO_KraftUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day4/BookStorePathMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day4/BookStorePathMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/Day4/KraftExlabJsonPathMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/Day4/KraftExlabJsonPathMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day02/SimpleGetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day02/SimpleGetRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/ClassTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/ClassTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/PathMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/PathMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/PetStoreWithPathParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/PetStoreWithPathParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestAndVerifyHeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestAndVerifyHeaders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestWithPathParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestWithPathParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestWithQueryParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiTest/day3/UserGetRequestWithQueryParam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,6 +171,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692296251249</updated>
     </task>
+    <task id="LOCAL-00001" summary="change added">
+      <created>1693334866225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693334866225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +191,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change added" />
+    <option name="LAST_COMMIT_MESSAGE" value="change added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
